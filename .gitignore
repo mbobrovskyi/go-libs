@@ -13,3 +13,4 @@ vendor/
 
 .env*
 !.env.example
+dist/
