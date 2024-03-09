@@ -1,4 +1,4 @@
-module github.com/mbobrovskyi/go-libs
+module github.com/mbobrovskyi/golibs
 
 go 1.22.0
 

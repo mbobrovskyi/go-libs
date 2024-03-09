@@ -2,7 +2,7 @@ package postgres
 
 import (
 	"database/sql"
-	"github.com/mbobrovskyi/go-libs/database/csql"
+	"github.com/mbobrovskyi/golibs/database/csql"
 	"golang.org/x/net/context"
 
 	_ "github.com/lib/pq"
